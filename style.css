@@ -47,4 +47,32 @@ a{
 /* Text Area */
 .middle-text{
     text-align: center;
+    padding-bottom: 50px;
+}
+.main-card{
+    display: flex;
+}
+.main-card img{
+    max-width: 90%;
+    padding-left: 2px;
+    padding-top: 10px;
+    border-radius: 10px;
+}
+.card{
+    box-shadow:10px 10px 10px green;
+    max-width: 20%;
+    margin-left: 10%;
+    border-radius:10px;
+    text-align: center;
+}
+.card p{
+    padding: 10px;
+}
+footer{
+    text-align: center;
+    background-color: rgb(155, 189, 189);
+    padding: 10px;
+}
+.footer-text{
+    color: rgb(92, 107, 25);
 }
