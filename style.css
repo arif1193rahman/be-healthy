@@ -62,7 +62,7 @@ a{
 }
 .middle-text h1{
     color: rgb(44, 187, 25);
-    text-shadow: 2px 2px yellow;
+    text-shadow: 2px 2px rgb(217, 230, 40);
 }
 .main-card{
     display: flex;
