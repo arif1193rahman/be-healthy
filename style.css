@@ -60,6 +60,10 @@ a{
     text-align: center;
     padding-bottom: 50px;
 }
+.middle-text h1{
+    color: rgb(44, 187, 25);
+    text-shadow: 2px 2px yellow;
+}
 .main-card{
     display: flex;
 }
