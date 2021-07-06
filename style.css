@@ -10,7 +10,7 @@ body{
     font-size: 50px;
     margin-top: 0%;
     text-align: center;
-    color: rgb(106, 243, 106);
+    color: rgb(149, 241, 121);
 }
 .option{
     display: flex;
@@ -74,7 +74,7 @@ a{
     border-radius: 10px;
 }
 .card{
-    box-shadow:10px 10px 10px green;
+    box-shadow:10px 10px 10px rgb(206, 174, 30);
     max-width: 20%;
     margin-left: 10%;
     border-radius:10px;
